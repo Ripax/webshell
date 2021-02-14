@@ -1,24 +1,26 @@
 ﻿webshell
 ========
-这是一个webshell收集项目
+This is a webshell collection project
 
-送人玫瑰，手有余香，如果各位下载了本项目，也请您能提交shell
+Give someone a rose, there is a fragrance in your hand, if you download this project, please also submit a shell
 
-本项目涵盖各种常用脚本
+This project covers various common scripts
 
-如：asp,aspx,php,jsp,pl,py
+Such as: asp, aspx, php, jsp, pl, py
 
-如提交各种webshell，请勿更改名称和密码
+If submit various webshells, please do not change the name and password
 
-注意：所有shell 本人不保证是否有后门，但是自己上传的绝不会故意加后门
+Note: All shells themselves do not guarantee whether there is a backdoor, but I will never add a backdoor deliberately when uploading by myself
 
-各位提交的，也请勿加后门
+Please don’t add a backdoor if you submit
 
-如发现存在后门代码，请issues 。
+If you find a backdoor code, please issues.
 
-本项目提供的工具，禁止从事非法活动，此项目，仅供测试，所造成的一切后果，与本人无关。
+The tools provided by this project are forbidden to engage in illegal activities. This project is for testing purposes only. All the consequences caused by it have nothing to do with me.
 
-Author ：tennc
+Author: tennc
+
+
 
 http://tennc.github.io/webshell
 
